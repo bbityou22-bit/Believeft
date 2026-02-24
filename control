@@ -1,0 +1,9 @@
+Package: com.believeft.mods
+Name: BelieveFT Mods
+Depends: mobilesubstrate | libhooker-module
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Description: BelieveFT Mods — floating in-game menu tweak
+Maintainer: BelieveFT
+Author: BelieveFT
+Section: Tweaks
